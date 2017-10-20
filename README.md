@@ -1,1 +1,3 @@
-# VWMExp
+# VWMExp #
+
+Download all files to ensure that you have the proper trial schedules and texts for the iteration of the experiment that you'll be running. Create an empty folder titled "data" without parentheses for the program to output csvs. See the included protocols for context.
